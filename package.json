@@ -1,0 +1,9 @@
+{
+	"name": "NodeJS-demo",
+	"description": "Demonstration of REST API creation using NodeJS ",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "3.x"
+	}
+}
